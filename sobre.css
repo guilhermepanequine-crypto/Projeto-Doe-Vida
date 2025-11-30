@@ -9,6 +9,8 @@
     background: #fff;
     border-radius: 0.5rem;
     padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
@@ -25,7 +27,6 @@
 }
 
 .sobre-box-imagem {
-    display: flex;
     text-align: center;
     padding: 1rem;
 gap:1rem;
@@ -35,8 +36,8 @@ justify-content: space-around;
 .sobre-logo {
     width: 100%;
     display: flex;
-    max-width: 300px;
-    height: 250px;
+    max-width: 200px;
+    height: 150px;
     display: block;
     margin: 0 auto;
     border-radius: 0.5rem;
