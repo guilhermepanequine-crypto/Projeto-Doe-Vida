@@ -166,7 +166,7 @@ h2 {
     display: none;
 }
 
-@media (min-width: 1150px) {
+@media (min-width: 1155px) {
     .menu-hamburger {
         display: none;
     }
