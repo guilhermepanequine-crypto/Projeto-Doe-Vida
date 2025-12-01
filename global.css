@@ -166,7 +166,7 @@ h2 {
     display: none;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1150px) {
     .menu-hamburger {
         display: none;
     }
@@ -210,44 +210,6 @@ h2 {
 
 @media (max-width: 1150px) {
 
-
-    .menu-hamburger {
-        display: none;
-    }
-    
-    .menu-lateral {
-        display: none !important;
-    }
-    
-    .menu-pc-celular {
-        display: block;
-        background-color: #fff;
-        border-bottom: 1px solid #ddd;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    }
-    
-    .menu-pc-celular ul {
-        display: flex;
-        justify-content: center;
-        list-style: none;
-        padding: 0;
-        margin: 0;
-    }
-    
-    .menu-pc-celular a {
-        display: block;
-        padding: 1rem 1.5rem;
-        text-decoration: none;
-        color: #333;
-        font-weight: bold;
-        font-size: 0.9rem;
-        transition: all 0.2s ease;
-    }
-    
-    .menu-pc-celular a:hover {
-        background-color: #f4f4f4;
-        color: #c00;
-    }
 
     .perfil-nome {
         display: none;
